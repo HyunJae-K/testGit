@@ -3,6 +3,7 @@ package board;
 import java.sql.*;
 import java.util.*;
 
+// git test
 public class BoardDAO {
 	private static BoardDAO instance = new BoardDAO();
 	
